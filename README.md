@@ -1,12 +1,6 @@
 # mELON
 
-Find out more about our startup project : https://www.tesla.com/
-
-Our roadmap : https://www.tesla.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me (Already started some)
-
-Just joking ! We are not affiliated with Tesla Inc. in any way or by any mean ! NO NO AND NOOOOO !
-
-Let's farm for Elon !
+Let's farm for Elon ! Let's farm mELON !
 
 10% of every block reward goes to Elon wallet ! Hell yeah !
 
